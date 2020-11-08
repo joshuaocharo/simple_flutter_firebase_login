@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "368634883566",
+    "firebase_url": "https://shopify-34709.firebaseio.com",
+    "project_id": "shopify-34709",
+    "storage_bucket": "shopify-34709.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368634883566:android:41afbc7fab15e897ddb2ff",
+        "android_client_info": {
+          "package_name": "com.example.firstflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368634883566-dmoc9msefe6npde61cjjh9vgtq3q7as4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe3tcA8idOhNB9sdCUoLKDlR61ahuaLh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368634883566-dmoc9msefe6npde61cjjh9vgtq3q7as4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
